@@ -3,7 +3,7 @@
 
 ---
 
-## Installation (both level1 & level1 + level2 will have same installation steps)
+## Installation (both level1 & level1_level2 will have same installation steps)
 
 ### Backend
 
